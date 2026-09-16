@@ -1,30 +1,105 @@
-# Genesis Software — Public Catalog
+# Genesis Software — Public Multichannel Catalog
 Seller: genesiscode2026
-Storefront: https://gitbuyer.com/r/genesiscode2026
-Total products: 24
-Payout: USDC on Base (non-custodial, x402).
+Storefront GitBuyer: https://gitbuyer.com/r/genesiscode2026
+Storefront X402 Git: https://x402git.com/genesiscode2026
+Total unique products: 24
+Total live listings: 48
+Payout: USDC on Base (non-custodial settlement to 0xC6F86e170411182114FcCdb28793dC76B5e8D144).
 
-- Agent Workspace Guard SDK (agent-workspace-guard-sdk) — AI Agent Security — $149 — In-process filesystem confinement and command-policy guardrails for autonomous coding agents.
-- Forecast-Aware Financial Charting (forecast-aware-financial-charting) — Financial Data Visualization — $99 — White-label HTML5 Canvas financial charting with forecast horizons and native quantile uncertainty visualization.
-- Prediction Audit Calibration Ledger (prediction-audit-calibration-ledger) — Quant Research — $99 — Tamper-evident forecast recording, SHA-256 commitment verification and Brier-score calibration for models and agents.
-- ICP Multi-Exchange Price Oracle (icp-multi-exchange-price-oracle) — ICP / Market Data — $249 — Rust/ICP multi-exchange price oracle with Binance, Coinbase and OKX HTTPS outcalls, provenance and validation safeguards.
-- Verifiable Delivery Packager (verifiable-delivery-packager) — Developer Workflow — $79 — Deterministic software-delivery packaging with integrity manifests, executable-bit auditing and cryptographic review receipts.
-- Local-First Privacy Encryption SDK (local-first-privacy-encryption-sdk) — Privacy / Local-First — $149 — Native Web Crypto encryption, portable encrypted backups and local-first search for browser and Node.js applications.
-- Point-in-Time Quant Validator (point-in-time-quant-validator) — Quant Research — $129 — Zero-dependency purged walk-forward splitting and leakage audit for point-in-time validation.
-- ICP RBAC Canister Kit (icp-rbac-canister-kit) — ICP Infrastructure — $149 — Production-grade Role-Based Access Control (RBAC) canister infrastructure and audit trail for the Internet Computer.
-- Local Durable Workflow Engine (local-durable-workflow-engine) — Developer Workflow — $119 — Zero-cloud durable state machine, persistent action queue, and tamper-evident audit ledger for local AI agents.
-- AI Agent Red-Team Benchmark Lab (ai-agent-redteam-benchmark-lab) — AI Agent Security — $199 — Adversarial containment and security evaluation suite for AI agents.
-- Agent Operations Control Room SDK (agent-operations-control-room-sdk) — AI Agent Security — $149 — Real-time event bus, state inspection and pause/resume controls for agent operations.
-- Durable Deal Workflow SDK (durable-deal-workflow-sdk) — Developer Workflow — $129 — Cryptographically auditable finite-state machine for deal progression and approvals.
-- Quant Walk-Forward Engine (quant-walk-forward-engine) — Quant Research — $249 — Purged cross-validation and embargo time-series backtesting for walk-forward optimization.
-- Institutional Financial Scanner UI (institutional-financial-scanner-ui) — Financial Data Visualization — $199 — Virtualized sorting, volatility heatmaps and data adapters for institutional scanning.
-- MCP Agent Security Gateway (mcp-agent-security-gateway) — AI Agent Security — $149 — Fail-closed JSON-RPC tool-call policy middleware for AI agents.
-- AI Agent Assurance Suite (ai-agent-assurance-suite) — AI Agent Security — $449 — Integrated runtime sandboxing, adversarial benchmarking and packaging pipeline.
-- Reproducible Quant Research Suite (reproducible-quant-research-suite) — Quant Research — $549 — Integrated temporal validation, walk-forward testing and forecast calibration.
-- Safe Agent Engineering Suite (safe-agent-engineering-suite) — AI Agent Security — $199 — Integrated agent workspace guardrails and verifiable software-delivery pipeline for autonomous coding workflows.
-- Forecast Quant Verification Suite (forecast-quant-verification-suite) — Quant Research — $169 — Integrated forecast visualization, tamper-evident prediction commitments and probabilistic calibration tooling.
-- Candid Compatibility Detector (candid-compatibility-detector) — ICP Infrastructure — $149 — Detects breaking changes and compatibility issues across Candid interfaces for the Internet Computer.
-- Quant Experiment Provenance Registry (quant-experiment-provenance-registry) — Quant Research — $149 — Provenance registry for reproducible quant experiments.
-- Market Data Freshness Engine (market-data-freshness-engine) — Quant Research — $199 — Detects stale financial market data with provenance and freshness scoring.
-- Tool-Call Contract Validator (tool-call-contract-validator) — AI Agent Security — $149 — Contract validation for tool calls in AI agents.
-- Deterministic Agent Replay SDK (deterministic-agent-replay-sdk) — AI Agent Security — $249 — Deterministic replay of AI-agent execution for reproducible debugging.
+## Products
+- **Agent Workspace Guard SDK** (`agent-workspace-guard-sdk`) — AI Agent Security — $149
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/agent-workspace-guard-sdk
+  X402 Git: https://x402git.com/genesiscode2026/agent-workspace-guard-sdk (Agent 402 API: https://x402git.com/api/r/genesiscode2026/agent-workspace-guard-sdk)
+  Summary: In-process filesystem confinement and command-policy guardrails for autonomous coding agents.
+- **Forecast-Aware Financial Charting** (`forecast-aware-financial-charting`) — Financial Data Visualization — $99
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/forecast-aware-financial-charting
+  X402 Git: https://x402git.com/genesiscode2026/forecast-aware-financial-charting (Agent 402 API: https://x402git.com/api/r/genesiscode2026/forecast-aware-financial-charting)
+  Summary: White-label HTML5 Canvas financial charting with forecast horizons and native quantile uncertainty visualization.
+- **Prediction Audit Calibration Ledger** (`prediction-audit-calibration-ledger`) — Quant Research — $99
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/prediction-audit-calibration-ledger
+  X402 Git: https://x402git.com/genesiscode2026/prediction-audit-calibration-ledger (Agent 402 API: https://x402git.com/api/r/genesiscode2026/prediction-audit-calibration-ledger)
+  Summary: Tamper-evident forecast recording, SHA-256 commitment verification and Brier-score calibration for models and agents.
+- **ICP Multi-Exchange Price Oracle** (`icp-multi-exchange-price-oracle`) — ICP / Market Data — $249
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/icp-multi-exchange-price-oracle
+  X402 Git: https://x402git.com/genesiscode2026/icp-multi-exchange-price-oracle (Agent 402 API: https://x402git.com/api/r/genesiscode2026/icp-multi-exchange-price-oracle)
+  Summary: Rust/ICP multi-exchange price oracle with Binance, Coinbase and OKX HTTPS outcalls, provenance and validation safeguards.
+- **Verifiable Delivery Packager** (`verifiable-delivery-packager`) — Developer Workflow — $79
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/verifiable-delivery-packager
+  X402 Git: https://x402git.com/genesiscode2026/verifiable-delivery-packager (Agent 402 API: https://x402git.com/api/r/genesiscode2026/verifiable-delivery-packager)
+  Summary: Deterministic software-delivery packaging with integrity manifests, executable-bit auditing and cryptographic review receipts.
+- **Local-First Privacy Encryption SDK** (`local-first-privacy-encryption-sdk`) — Privacy / Local-First — $149
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/local-first-privacy-encryption-sdk
+  X402 Git: https://x402git.com/genesiscode2026/local-first-privacy-encryption-sdk (Agent 402 API: https://x402git.com/api/r/genesiscode2026/local-first-privacy-encryption-sdk)
+  Summary: Native Web Crypto encryption, portable encrypted backups and local-first search for browser and Node.js applications.
+- **Point-in-Time Quant Validator** (`point-in-time-quant-validator`) — Quant Research — $129
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/point-in-time-quant-validator
+  X402 Git: https://x402git.com/genesiscode2026/point-in-time-quant-validator (Agent 402 API: https://x402git.com/api/r/genesiscode2026/point-in-time-quant-validator)
+  Summary: Zero-dependency purged walk-forward splitting and leakage audit for point-in-time validation.
+- **ICP RBAC Canister Kit** (`icp-rbac-canister-kit`) — ICP Infrastructure — $149
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/icp-rbac-canister-kit
+  X402 Git: https://x402git.com/genesiscode2026/icp-rbac-canister-kit (Agent 402 API: https://x402git.com/api/r/genesiscode2026/icp-rbac-canister-kit)
+  Summary: Production-grade Role-Based Access Control (RBAC) canister infrastructure and audit trail for the Internet Computer.
+- **Local Durable Workflow Engine** (`local-durable-workflow-engine`) — Developer Workflow — $119
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/local-durable-workflow-engine
+  X402 Git: https://x402git.com/genesiscode2026/local-durable-workflow-engine (Agent 402 API: https://x402git.com/api/r/genesiscode2026/local-durable-workflow-engine)
+  Summary: Zero-cloud durable state machine, persistent action queue, and tamper-evident audit ledger for local AI agents.
+- **AI Agent Red-Team Benchmark Lab** (`ai-agent-redteam-benchmark-lab`) — AI Agent Security — $199
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/ai-agent-redteam-benchmark-lab
+  X402 Git: https://x402git.com/genesiscode2026/ai-agent-redteam-benchmark-lab (Agent 402 API: https://x402git.com/api/r/genesiscode2026/ai-agent-redteam-benchmark-lab)
+  Summary: Adversarial containment and security evaluation suite for AI agents.
+- **Agent Operations Control Room SDK** (`agent-operations-control-room-sdk`) — AI Agent Security — $149
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/agent-operations-control-room-sdk
+  X402 Git: https://x402git.com/genesiscode2026/agent-operations-control-room-sdk (Agent 402 API: https://x402git.com/api/r/genesiscode2026/agent-operations-control-room-sdk)
+  Summary: Real-time event bus, state inspection and pause/resume controls for agent operations.
+- **Durable Deal Workflow SDK** (`durable-deal-workflow-sdk`) — Developer Workflow — $129
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/durable-deal-workflow-sdk
+  X402 Git: https://x402git.com/genesiscode2026/durable-deal-workflow-sdk (Agent 402 API: https://x402git.com/api/r/genesiscode2026/durable-deal-workflow-sdk)
+  Summary: Cryptographically auditable finite-state machine for deal progression and approvals.
+- **Quant Walk-Forward Engine** (`quant-walk-forward-engine`) — Quant Research — $249
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/quant-walk-forward-engine
+  X402 Git: https://x402git.com/genesiscode2026/quant-walk-forward-engine (Agent 402 API: https://x402git.com/api/r/genesiscode2026/quant-walk-forward-engine)
+  Summary: Purged cross-validation and embargo time-series backtesting for walk-forward optimization.
+- **Institutional Financial Scanner UI** (`institutional-financial-scanner-ui`) — Financial Data Visualization — $199
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/institutional-financial-scanner-ui
+  X402 Git: https://x402git.com/genesiscode2026/institutional-financial-scanner-ui (Agent 402 API: https://x402git.com/api/r/genesiscode2026/institutional-financial-scanner-ui)
+  Summary: Virtualized sorting, volatility heatmaps and data adapters for institutional scanning.
+- **MCP Agent Security Gateway** (`mcp-agent-security-gateway`) — AI Agent Security — $149
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/mcp-agent-security-gateway
+  X402 Git: https://x402git.com/genesiscode2026/mcp-agent-security-gateway (Agent 402 API: https://x402git.com/api/r/genesiscode2026/mcp-agent-security-gateway)
+  Summary: Fail-closed JSON-RPC tool-call policy middleware for AI agents.
+- **AI Agent Assurance Suite** (`ai-agent-assurance-suite`) — AI Agent Security — $449
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/ai-agent-assurance-suite
+  X402 Git: https://x402git.com/genesiscode2026/ai-agent-assurance-suite (Agent 402 API: https://x402git.com/api/r/genesiscode2026/ai-agent-assurance-suite)
+  Summary: Integrated runtime sandboxing, adversarial benchmarking and packaging pipeline.
+- **Reproducible Quant Research Suite** (`reproducible-quant-research-suite`) — Quant Research — $549
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/reproducible-quant-research-suite
+  X402 Git: https://x402git.com/genesiscode2026/reproducible-quant-research-suite (Agent 402 API: https://x402git.com/api/r/genesiscode2026/reproducible-quant-research-suite)
+  Summary: Integrated temporal validation, walk-forward testing and forecast calibration.
+- **Safe Agent Engineering Suite** (`safe-agent-engineering-suite`) — AI Agent Security — $199
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/safe-agent-engineering-suite
+  X402 Git: https://x402git.com/genesiscode2026/safe-agent-engineering-suite (Agent 402 API: https://x402git.com/api/r/genesiscode2026/safe-agent-engineering-suite)
+  Summary: Integrated agent workspace guardrails and verifiable software-delivery pipeline for autonomous coding workflows.
+- **Forecast Quant Verification Suite** (`forecast-quant-verification-suite`) — Quant Research — $169
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/forecast-quant-verification-suite
+  X402 Git: https://x402git.com/genesiscode2026/forecast-quant-verification-suite (Agent 402 API: https://x402git.com/api/r/genesiscode2026/forecast-quant-verification-suite)
+  Summary: Integrated forecast visualization, tamper-evident prediction commitments and probabilistic calibration tooling.
+- **Candid Compatibility Detector** (`candid-compatibility-detector`) — ICP Infrastructure — $149
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/candid-compatibility-detector
+  X402 Git: https://x402git.com/genesiscode2026/candid-compatibility-detector (Agent 402 API: https://x402git.com/api/r/genesiscode2026/candid-compatibility-detector)
+  Summary: Detects breaking changes and compatibility issues across Candid interfaces for the Internet Computer.
+- **Quant Experiment Provenance Registry** (`quant-experiment-provenance-registry`) — Quant Research — $149
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/quant-experiment-provenance-registry
+  X402 Git: https://x402git.com/genesiscode2026/quant-experiment-provenance-registry (Agent 402 API: https://x402git.com/api/r/genesiscode2026/quant-experiment-provenance-registry)
+  Summary: Provenance registry for reproducible quant experiments.
+- **Market Data Freshness Engine** (`market-data-freshness-engine`) — Quant Research — $199
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/market-data-freshness-engine
+  X402 Git: https://x402git.com/genesiscode2026/market-data-freshness-engine (Agent 402 API: https://x402git.com/api/r/genesiscode2026/market-data-freshness-engine)
+  Summary: Detects stale financial market data with provenance and freshness scoring.
+- **Tool-Call Contract Validator** (`tool-call-contract-validator`) — AI Agent Security — $149
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/tool-call-contract-validator
+  X402 Git: https://x402git.com/genesiscode2026/tool-call-contract-validator (Agent 402 API: https://x402git.com/api/r/genesiscode2026/tool-call-contract-validator)
+  Summary: Contract validation for tool calls in AI agents.
+- **Deterministic Agent Replay SDK** (`deterministic-agent-replay-sdk`) — AI Agent Security — $249
+  GitBuyer: https://gitbuyer.com/r/genesiscode2026/deterministic-agent-replay-sdk
+  X402 Git: https://x402git.com/genesiscode2026/deterministic-agent-replay-sdk (Agent 402 API: https://x402git.com/api/r/genesiscode2026/deterministic-agent-replay-sdk)
+  Summary: Deterministic replay of AI-agent execution for reproducible debugging.
