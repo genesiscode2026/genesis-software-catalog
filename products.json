@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Agent Workspace Guard SDK",
+    "repo": "agent-workspace-guard-sdk",
+    "language": "JavaScript",
+    "price_usd": 149,
+    "update_price_usd": 39,
+    "category": "AI Agent Security",
+    "summary": "In-process filesystem confinement and command-policy guardrails for autonomous coding agents."
+  },
+  {
+    "name": "Forecast-Aware Financial Charting",
+    "repo": "forecast-aware-financial-charting",
+    "language": "JavaScript",
+    "price_usd": 99,
+    "update_price_usd": 19,
+    "category": "Financial Data Visualization",
+    "summary": "White-label HTML5 Canvas financial charting with forecast horizons and native quantile uncertainty visualization."
+  },
+  {
+    "name": "Prediction Audit Calibration Ledger",
+    "repo": "prediction-audit-calibration-ledger",
+    "language": "Python",
+    "price_usd": 99,
+    "update_price_usd": 19,
+    "category": "Quant Research",
+    "summary": "Tamper-evident forecast recording, SHA-256 commitment verification and Brier-score calibration for models and agents."
+  },
+  {
+    "name": "ICP Multi-Exchange Price Oracle",
+    "repo": "icp-multi-exchange-price-oracle",
+    "language": "Rust",
+    "price_usd": 249,
+    "update_price_usd": 59,
+    "category": "ICP / Market Data",
+    "summary": "Rust/ICP multi-exchange price oracle with Binance, Coinbase and OKX HTTPS outcalls, provenance and validation safeguards."
+  },
+  {
+    "name": "Verifiable Delivery Packager",
+    "repo": "verifiable-delivery-packager",
+    "language": "JavaScript",
+    "price_usd": 79,
+    "update_price_usd": 15,
+    "category": "Developer Workflow",
+    "summary": "Deterministic software-delivery packaging with integrity manifests, executable-bit auditing and cryptographic review receipts."
+  },
+  {
+    "name": "Local-First Privacy Encryption SDK",
+    "repo": "local-first-privacy-encryption-sdk",
+    "language": "JavaScript",
+    "price_usd": 149,
+    "update_price_usd": 39,
+    "category": "Privacy / Local-First",
+    "summary": "Native Web Crypto encryption, portable encrypted backups and local-first search for browser and Node.js applications."
+  },
+  {
+    "name": "Point-in-Time Quant Validator",
+    "repo": "point-in-time-quant-validator",
+    "language": "Python",
+    "price_usd": 129,
+    "update_price_usd": 29,
+    "category": "Quant Research",
+    "summary": "Zero-dependency purged walk-forward splitting and leakage audit for point-in-time validation."
+  },
+  {
+    "name": "ICP RBAC Canister Kit",
+    "repo": "icp-rbac-canister-kit",
+    "language": "Rust",
+    "price_usd": 149,
+    "update_price_usd": 39,
+    "category": "ICP Infrastructure",
+    "summary": "Production-grade Role-Based Access Control (RBAC) canister infrastructure and audit trail for the Internet Computer."
+  },
+  {
+    "name": "Local Durable Workflow Engine",
+    "repo": "local-durable-workflow-engine",
+    "language": "JavaScript",
+    "price_usd": 119,
+    "update_price_usd": 29,
+    "category": "Developer Workflow",
+    "summary": "Zero-cloud durable state machine, persistent action queue, and tamper-evident audit ledger for local AI agents."
+  },
+  {
+    "name": "AI Agent Red-Team Benchmark Lab",
+    "repo": "ai-agent-redteam-benchmark-lab",
+    "language": "JavaScript",
+    "price_usd": 199,
+    "update_price_usd": 49,
+    "category": "AI Agent Security",
+    "summary": "Adversarial containment and security evaluation suite for AI agents."
+  },
+  {
+    "name": "Agent Operations Control Room SDK",
+    "repo": "agent-operations-control-room-sdk",
+    "language": "JavaScript",
+    "price_usd": 149,
+    "update_price_usd": 39,
+    "category": "AI Agent Security",
+    "summary": "Real-time event bus, state inspection and pause/resume controls for agent operations."
+  },
+  {
+    "name": "Durable Deal Workflow SDK",
+    "repo": "durable-deal-workflow-sdk",
+    "language": "JavaScript",
+    "price_usd": 129,
+    "update_price_usd": 29,
+    "category": "Developer Workflow",
+    "summary": "Cryptographically auditable finite-state machine for deal progression and approvals."
+  },
+  {
+    "name": "Quant Walk-Forward Engine",
+    "repo": "quant-walk-forward-engine",
+    "language": "Python",
+    "price_usd": 249,
+    "update_price_usd": 59,
+    "category": "Quant Research",
+    "summary": "Purged cross-validation and embargo time-series backtesting for walk-forward optimization."
+  },
+  {
+    "name": "Institutional Financial Scanner UI",
+    "repo": "institutional-financial-scanner-ui",
+    "language": "JavaScript",
+    "price_usd": 199,
+    "update_price_usd": 49,
+    "category": "Financial Data Visualization",
+    "summary": "Virtualized sorting, volatility heatmaps and data adapters for institutional scanning."
+  },
+  {
+    "name": "MCP Agent Security Gateway",
+    "repo": "mcp-agent-security-gateway",
+    "language": "JavaScript",
+    "price_usd": 149,
+    "update_price_usd": 39,
+    "category": "AI Agent Security",
+    "summary": "Fail-closed JSON-RPC tool-call policy middleware for AI agents."
+  },
+  {
+    "name": "AI Agent Assurance Suite",
+    "repo": "ai-agent-assurance-suite",
+    "language": "JavaScript",
+    "price_usd": 449,
+    "update_price_usd": 99,
+    "category": "AI Agent Security",
+    "summary": "Integrated runtime sandboxing, adversarial benchmarking and packaging pipeline."
+  },
+  {
+    "name": "Reproducible Quant Research Suite",
+    "repo": "reproducible-quant-research-suite",
+    "language": "Python",
+    "price_usd": 549,
+    "update_price_usd": 129,
+    "category": "Quant Research",
+    "summary": "Integrated temporal validation, walk-forward testing and forecast calibration."
+  },
+  {
+    "name": "Safe Agent Engineering Suite",
+    "repo": "safe-agent-engineering-suite",
+    "language": "JavaScript",
+    "price_usd": 199,
+    "update_price_usd": 49,
+    "category": "AI Agent Security",
+    "summary": "Integrated agent workspace guardrails and verifiable software-delivery pipeline for autonomous coding workflows."
+  },
+  {
+    "name": "Forecast Quant Verification Suite",
+    "repo": "forecast-quant-verification-suite",
+    "language": "JavaScript",
+    "price_usd": 169,
+    "update_price_usd": 39,
+    "category": "Quant Research",
+    "summary": "Integrated forecast visualization, tamper-evident prediction commitments and probabilistic calibration tooling."
+  },
+  {
+    "name": "Candid Compatibility Detector",
+    "repo": "candid-compatibility-detector",
+    "language": "Python",
+    "price_usd": 149,
+    "update_price_usd": 39,
+    "category": "ICP Infrastructure",
+    "summary": "Detects breaking changes and compatibility issues across Candid interfaces for the Internet Computer."
+  },
+  {
+    "name": "Quant Experiment Provenance Registry",
+    "repo": "quant-experiment-provenance-registry",
+    "language": "Python",
+    "price_usd": 149,
+    "update_price_usd": 39,
+    "category": "Quant Research",
+    "summary": "Provenance registry for reproducible quant experiments."
+  },
+  {
+    "name": "Market Data Freshness Engine",
+    "repo": "market-data-freshness-engine",
+    "language": "Python",
+    "price_usd": 199,
+    "update_price_usd": 49,
+    "category": "Quant Research",
+    "summary": "Detects stale financial market data with provenance and freshness scoring."
+  },
+  {
+    "name": "Tool-Call Contract Validator",
+    "repo": "tool-call-contract-validator",
+    "language": "Python",
+    "price_usd": 149,
+    "update_price_usd": 39,
+    "category": "AI Agent Security",
+    "summary": "Contract validation for tool calls in AI agents."
+  },
+  {
+    "name": "Deterministic Agent Replay SDK",
+    "repo": "deterministic-agent-replay-sdk",
+    "language": "Python",
+    "price_usd": 249,
+    "update_price_usd": 59,
+    "category": "AI Agent Security",
+    "summary": "Deterministic replay of AI-agent execution for reproducible debugging."
+  }
+]
