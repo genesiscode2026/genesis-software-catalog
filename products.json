@@ -214,5 +214,194 @@
     "update_price_usd": 59,
     "category": "AI Agent Security",
     "summary": "Deterministic replay of AI-agent execution for reproducible debugging."
+  },
+  {
+    "name": "Agent Skills QA & Packager",
+    "repo": "genesis-agent-skills-qa",
+    "language": "Python / TypeScript",
+    "price_usd": 29,
+    "update_price_usd": 5,
+    "category": "Agent Tooling",
+    "summary": "Lint and package Agent Skills with 0 config"
+  },
+  {
+    "name": "Repository Truth Context Compiler",
+    "repo": "genesis-repository-truth-context",
+    "language": "Python / TypeScript",
+    "price_usd": 39,
+    "update_price_usd": 9,
+    "category": "Context Engineering",
+    "summary": "Compile verified repository context facts for AI prompts"
+  },
+  {
+    "name": "MCP Production Readiness Kit",
+    "repo": "genesis-mcp-production-readiness",
+    "language": "Python / TypeScript",
+    "price_usd": 79,
+    "update_price_usd": 15,
+    "category": "MCP Infrastructure",
+    "summary": "Test & stress-verify Model Context Protocol servers"
+  },
+  {
+    "name": "OpenAPI to MCP Production Builder",
+    "repo": "genesis-openapi-mcp-builder",
+    "language": "Python / TypeScript",
+    "price_usd": 99,
+    "update_price_usd": 15,
+    "category": "Developer Tools",
+    "summary": "Generate ready-to-run MCP servers directly from OpenAPI specs"
+  },
+  {
+    "name": "Agent Instruction Conflict Linter",
+    "repo": "genesis-agent-instruction-linter",
+    "language": "Python / TypeScript",
+    "price_usd": 19,
+    "update_price_usd": 5,
+    "category": "Developer Workflow",
+    "summary": "Detect conflicting instructions in AGENTS.md, CLAUDE.md"
+  },
+  {
+    "name": "Coding Agent Checkpoint & Resume Kit",
+    "repo": "genesis-agent-checkpoint-resume",
+    "language": "Python / TypeScript",
+    "price_usd": 19,
+    "update_price_usd": 5,
+    "category": "Agent Reliability",
+    "summary": "Capture frozen state of agent task for instant resume"
+  },
+  {
+    "name": "AI CI Failure Triage",
+    "repo": "genesis-ai-ci-failure-triage",
+    "language": "Python / TypeScript",
+    "price_usd": 29,
+    "update_price_usd": 5,
+    "category": "CI/CD Automation",
+    "summary": "Parse CI test failure logs into structured actionable briefs"
+  },
+  {
+    "name": "Agent Memory Hygiene Kit",
+    "repo": "genesis-agent-memory-hygiene",
+    "language": "Python / TypeScript",
+    "price_usd": 69,
+    "update_price_usd": 15,
+    "category": "Agent Memory",
+    "summary": "Audit and prune agent memories against staleness & PII"
+  },
+  {
+    "name": "LLM Cost Circuit Breaker",
+    "repo": "genesis-llm-cost-circuit-breaker",
+    "language": "Python / TypeScript",
+    "price_usd": 39,
+    "update_price_usd": 9,
+    "category": "FinOps / Cost Control",
+    "summary": "Enforce hard token and budget limits per session/day"
+  },
+  {
+    "name": "Prompt & Model Regression Harness",
+    "repo": "genesis-prompt-regression-harness",
+    "language": "Python / TypeScript",
+    "price_usd": 59,
+    "update_price_usd": 9,
+    "category": "LLM Evaluation",
+    "summary": "Evaluate prompt and model versions against test fixtures"
+  },
+  {
+    "name": "RAG Grounding Regression Kit",
+    "repo": "genesis-rag-grounding-regression",
+    "language": "Python / TypeScript",
+    "price_usd": 79,
+    "update_price_usd": 15,
+    "category": "RAG Reliability",
+    "summary": "Verify factual grounding of RAG output against sources"
+  },
+  {
+    "name": "AI Numeric Truth Guard",
+    "repo": "genesis-ai-numeric-truth-guard",
+    "language": "Python / TypeScript",
+    "price_usd": 49,
+    "update_price_usd": 9,
+    "category": "Financial & Data Integrity",
+    "summary": "Reject or flag unsupported numbers in AI reports"
+  },
+  {
+    "name": "Browser Workflow to Agent Skill",
+    "repo": "genesis-browser-workflow-skill-builder",
+    "language": "Python / TypeScript",
+    "price_usd": 49,
+    "update_price_usd": 9,
+    "category": "Browser Automation",
+    "summary": "Convert captured browser workflows into reusable Agent Skills"
+  },
+  {
+    "name": "Release Risk & Changelog Agent",
+    "repo": "genesis-release-risk-changelog",
+    "language": "Python / TypeScript",
+    "price_usd": 29,
+    "update_price_usd": 5,
+    "category": "Release Engineering",
+    "summary": "Generate commit-backed changelog and breaking change risk score"
+  },
+  {
+    "name": "API Contract Drift Detector",
+    "repo": "genesis-api-contract-drift",
+    "language": "Python / TypeScript",
+    "price_usd": 39,
+    "update_price_usd": 9,
+    "category": "API Tooling",
+    "summary": "Compare OpenAPI/JSON Schema versions for breaking changes"
+  },
+  {
+    "name": "Agent Skill Evaluation Harness",
+    "repo": "genesis-agent-skill-eval",
+    "language": "Python / TypeScript",
+    "price_usd": 59,
+    "update_price_usd": 9,
+    "category": "Agent Benchmarking",
+    "summary": "Benchmark agent skills with deterministic pass/fail tests"
+  },
+  {
+    "name": "Agent Workspace Preflight",
+    "repo": "genesis-agent-workspace-preflight",
+    "language": "Python / TypeScript",
+    "price_usd": 19,
+    "update_price_usd": 5,
+    "category": "Developer Tooling",
+    "summary": "Audit workspace hygiene and git status before launching agents"
+  },
+  {
+    "name": "MCP Quick Readiness Scan",
+    "repo": "genesis-mcp-quick-readiness-scan",
+    "language": "Python / TypeScript",
+    "price_usd": 19,
+    "update_price_usd": 5,
+    "category": "MCP Infrastructure",
+    "summary": "5-second smoke test verifying MCP protocol handshake & tool schemas"
+  },
+  {
+    "name": "Agent Assurance Smoke Test",
+    "repo": "genesis-agent-assurance-smoke-test",
+    "language": "Python / TypeScript",
+    "price_usd": 29,
+    "update_price_usd": 5,
+    "category": "Agent Reliability",
+    "summary": "30-second audit of agent containment and non-destructive git policies"
+  },
+  {
+    "name": "Deterministic Replay Mini",
+    "repo": "genesis-deterministic-replay-mini",
+    "language": "Python / TypeScript",
+    "price_usd": 29,
+    "update_price_usd": 5,
+    "category": "Agent Debugging",
+    "summary": "Offline tool-call trajectory recorder and replay drift verifier"
+  },
+  {
+    "name": "Tool Contract Lint",
+    "repo": "genesis-tool-contract-lint",
+    "language": "Python / TypeScript",
+    "price_usd": 19,
+    "update_price_usd": 5,
+    "category": "Developer Workflow",
+    "summary": "Validate function calling schemas and tool parameter types for LLMs"
   }
 ]

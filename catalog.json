@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-16T21:41:31.534Z",
+  "generated_at": "2026-09-17T13:01:55.250833+00:00",
   "seller": "genesiscode2026",
   "storefronts": {
     "gitbuyer": "https://gitbuyer.com/r/genesiscode2026",
     "x402": "https://x402git.com/genesiscode2026"
   },
-  "total_unique_products": 24,
-  "total_sales_listings": 48,
-  "total_list_price_usd": 4556,
+  "total_unique_products": 45,
+  "total_sales_listings": 90,
+  "total_list_price_usd": 5455,
   "payout": {
     "asset": "USDC",
     "network": "BASE",
@@ -566,6 +566,489 @@
           "status": "LIVE"
         }
       }
+    },
+    {
+      "name": "Agent Skills QA & Packager",
+      "repo": "genesis-agent-skills-qa",
+      "language": "Python / TypeScript",
+      "price_usd": 29,
+      "update_price_usd": 5,
+      "category": "Agent Tooling",
+      "summary": "Lint and package Agent Skills with 0 config",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-agent-skills-qa",
+          "price_usd": 29,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-agent-skills-qa",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-agent-skills-qa",
+          "price_usd": 29,
+          "update_price_usd": 5,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "Repository Truth Context Compiler",
+      "repo": "genesis-repository-truth-context",
+      "language": "Python / TypeScript",
+      "price_usd": 39,
+      "update_price_usd": 9,
+      "category": "Context Engineering",
+      "summary": "Compile verified repository context facts for AI prompts",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-repository-truth-context",
+          "price_usd": 39,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-repository-truth-context",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-repository-truth-context",
+          "price_usd": 39,
+          "update_price_usd": 9,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "MCP Production Readiness Kit",
+      "repo": "genesis-mcp-production-readiness",
+      "language": "Python / TypeScript",
+      "price_usd": 79,
+      "update_price_usd": 15,
+      "category": "MCP Infrastructure",
+      "summary": "Test & stress-verify Model Context Protocol servers",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-mcp-production-readiness",
+          "price_usd": 79,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-mcp-production-readiness",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-mcp-production-readiness",
+          "price_usd": 79,
+          "update_price_usd": 15,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "OpenAPI to MCP Production Builder",
+      "repo": "genesis-openapi-mcp-builder",
+      "language": "Python / TypeScript",
+      "price_usd": 99,
+      "update_price_usd": 15,
+      "category": "Developer Tools",
+      "summary": "Generate ready-to-run MCP servers directly from OpenAPI specs",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-openapi-mcp-builder",
+          "price_usd": 99,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-openapi-mcp-builder",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-openapi-mcp-builder",
+          "price_usd": 99,
+          "update_price_usd": 15,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "Agent Instruction Conflict Linter",
+      "repo": "genesis-agent-instruction-linter",
+      "language": "Python / TypeScript",
+      "price_usd": 19,
+      "update_price_usd": 5,
+      "category": "Developer Workflow",
+      "summary": "Detect conflicting instructions in AGENTS.md, CLAUDE.md",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-agent-instruction-linter",
+          "price_usd": 19,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-agent-instruction-linter",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-agent-instruction-linter",
+          "price_usd": 19,
+          "update_price_usd": 5,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "Coding Agent Checkpoint & Resume Kit",
+      "repo": "genesis-agent-checkpoint-resume",
+      "language": "Python / TypeScript",
+      "price_usd": 19,
+      "update_price_usd": 5,
+      "category": "Agent Reliability",
+      "summary": "Capture frozen state of agent task for instant resume",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-agent-checkpoint-resume",
+          "price_usd": 19,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-agent-checkpoint-resume",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-agent-checkpoint-resume",
+          "price_usd": 19,
+          "update_price_usd": 5,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "AI CI Failure Triage",
+      "repo": "genesis-ai-ci-failure-triage",
+      "language": "Python / TypeScript",
+      "price_usd": 29,
+      "update_price_usd": 5,
+      "category": "CI/CD Automation",
+      "summary": "Parse CI test failure logs into structured actionable briefs",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-ai-ci-failure-triage",
+          "price_usd": 29,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-ai-ci-failure-triage",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-ai-ci-failure-triage",
+          "price_usd": 29,
+          "update_price_usd": 5,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "Agent Memory Hygiene Kit",
+      "repo": "genesis-agent-memory-hygiene",
+      "language": "Python / TypeScript",
+      "price_usd": 69,
+      "update_price_usd": 15,
+      "category": "Agent Memory",
+      "summary": "Audit and prune agent memories against staleness & PII",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-agent-memory-hygiene",
+          "price_usd": 69,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-agent-memory-hygiene",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-agent-memory-hygiene",
+          "price_usd": 69,
+          "update_price_usd": 15,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "LLM Cost Circuit Breaker",
+      "repo": "genesis-llm-cost-circuit-breaker",
+      "language": "Python / TypeScript",
+      "price_usd": 39,
+      "update_price_usd": 9,
+      "category": "FinOps / Cost Control",
+      "summary": "Enforce hard token and budget limits per session/day",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-llm-cost-circuit-breaker",
+          "price_usd": 39,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-llm-cost-circuit-breaker",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-llm-cost-circuit-breaker",
+          "price_usd": 39,
+          "update_price_usd": 9,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "Prompt & Model Regression Harness",
+      "repo": "genesis-prompt-regression-harness",
+      "language": "Python / TypeScript",
+      "price_usd": 59,
+      "update_price_usd": 9,
+      "category": "LLM Evaluation",
+      "summary": "Evaluate prompt and model versions against test fixtures",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-prompt-regression-harness",
+          "price_usd": 59,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-prompt-regression-harness",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-prompt-regression-harness",
+          "price_usd": 59,
+          "update_price_usd": 9,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "RAG Grounding Regression Kit",
+      "repo": "genesis-rag-grounding-regression",
+      "language": "Python / TypeScript",
+      "price_usd": 79,
+      "update_price_usd": 15,
+      "category": "RAG Reliability",
+      "summary": "Verify factual grounding of RAG output against sources",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-rag-grounding-regression",
+          "price_usd": 79,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-rag-grounding-regression",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-rag-grounding-regression",
+          "price_usd": 79,
+          "update_price_usd": 15,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "AI Numeric Truth Guard",
+      "repo": "genesis-ai-numeric-truth-guard",
+      "language": "Python / TypeScript",
+      "price_usd": 49,
+      "update_price_usd": 9,
+      "category": "Financial & Data Integrity",
+      "summary": "Reject or flag unsupported numbers in AI reports",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-ai-numeric-truth-guard",
+          "price_usd": 49,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-ai-numeric-truth-guard",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-ai-numeric-truth-guard",
+          "price_usd": 49,
+          "update_price_usd": 9,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "Browser Workflow to Agent Skill",
+      "repo": "genesis-browser-workflow-skill-builder",
+      "language": "Python / TypeScript",
+      "price_usd": 49,
+      "update_price_usd": 9,
+      "category": "Browser Automation",
+      "summary": "Convert captured browser workflows into reusable Agent Skills",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-browser-workflow-skill-builder",
+          "price_usd": 49,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-browser-workflow-skill-builder",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-browser-workflow-skill-builder",
+          "price_usd": 49,
+          "update_price_usd": 9,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "Release Risk & Changelog Agent",
+      "repo": "genesis-release-risk-changelog",
+      "language": "Python / TypeScript",
+      "price_usd": 29,
+      "update_price_usd": 5,
+      "category": "Release Engineering",
+      "summary": "Generate commit-backed changelog and breaking change risk score",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-release-risk-changelog",
+          "price_usd": 29,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-release-risk-changelog",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-release-risk-changelog",
+          "price_usd": 29,
+          "update_price_usd": 5,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "API Contract Drift Detector",
+      "repo": "genesis-api-contract-drift",
+      "language": "Python / TypeScript",
+      "price_usd": 39,
+      "update_price_usd": 9,
+      "category": "API Tooling",
+      "summary": "Compare OpenAPI/JSON Schema versions for breaking changes",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-api-contract-drift",
+          "price_usd": 39,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-api-contract-drift",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-api-contract-drift",
+          "price_usd": 39,
+          "update_price_usd": 9,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "Agent Skill Evaluation Harness",
+      "repo": "genesis-agent-skill-eval",
+      "language": "Python / TypeScript",
+      "price_usd": 59,
+      "update_price_usd": 9,
+      "category": "Agent Benchmarking",
+      "summary": "Benchmark agent skills with deterministic pass/fail tests",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-agent-skill-eval",
+          "price_usd": 59,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-agent-skill-eval",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-agent-skill-eval",
+          "price_usd": 59,
+          "update_price_usd": 9,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "Agent Workspace Preflight",
+      "repo": "genesis-agent-workspace-preflight",
+      "language": "Python / TypeScript",
+      "price_usd": 19,
+      "update_price_usd": 5,
+      "category": "Developer Tooling",
+      "summary": "Audit workspace hygiene and git status before launching agents",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-agent-workspace-preflight",
+          "price_usd": 19,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-agent-workspace-preflight",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-agent-workspace-preflight",
+          "price_usd": 19,
+          "update_price_usd": 5,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "MCP Quick Readiness Scan",
+      "repo": "genesis-mcp-quick-readiness-scan",
+      "language": "Python / TypeScript",
+      "price_usd": 19,
+      "update_price_usd": 5,
+      "category": "MCP Infrastructure",
+      "summary": "5-second smoke test verifying MCP protocol handshake & tool schemas",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-mcp-quick-readiness-scan",
+          "price_usd": 19,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-mcp-quick-readiness-scan",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-mcp-quick-readiness-scan",
+          "price_usd": 19,
+          "update_price_usd": 5,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "Agent Assurance Smoke Test",
+      "repo": "genesis-agent-assurance-smoke-test",
+      "language": "Python / TypeScript",
+      "price_usd": 29,
+      "update_price_usd": 5,
+      "category": "Agent Reliability",
+      "summary": "30-second audit of agent containment and non-destructive git policies",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-agent-assurance-smoke-test",
+          "price_usd": 29,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-agent-assurance-smoke-test",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-agent-assurance-smoke-test",
+          "price_usd": 29,
+          "update_price_usd": 5,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "Deterministic Replay Mini",
+      "repo": "genesis-deterministic-replay-mini",
+      "language": "Python / TypeScript",
+      "price_usd": 29,
+      "update_price_usd": 5,
+      "category": "Agent Debugging",
+      "summary": "Offline tool-call trajectory recorder and replay drift verifier",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-deterministic-replay-mini",
+          "price_usd": 29,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-deterministic-replay-mini",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-deterministic-replay-mini",
+          "price_usd": 29,
+          "update_price_usd": 5,
+          "status": "LIVE"
+        }
+      }
+    },
+    {
+      "name": "Tool Contract Lint",
+      "repo": "genesis-tool-contract-lint",
+      "language": "Python / TypeScript",
+      "price_usd": 19,
+      "update_price_usd": 5,
+      "category": "Developer Workflow",
+      "summary": "Validate function calling schemas and tool parameter types for LLMs",
+      "channels": {
+        "gitbuyer": {
+          "url": "https://gitbuyer.com/r/genesiscode2026/genesis-tool-contract-lint",
+          "price_usd": 19,
+          "status": "LIVE"
+        },
+        "x402": {
+          "url": "https://x402git.com/genesiscode2026/genesis-tool-contract-lint",
+          "agent_url": "https://x402git.com/api/r/genesiscode2026/genesis-tool-contract-lint",
+          "price_usd": 19,
+          "update_price_usd": 5,
+          "status": "LIVE"
+        }
+      }
     }
   ],
   "public_companions": [
@@ -616,153 +1099,5 @@
     "PRODUCTION": "$69\u2013$199 robust multi-tool infrastructure kits for production agents",
     "PREMIUM": "$189\u2013$549 comprehensive enterprise assurance, quantitative & security suites"
   },
-  "pipeline_products": [
-    {
-      "slug": "genesis-agent-skills-qa",
-      "title": "Agent Skills QA & Packager",
-      "role": "UTILITY",
-      "price_usd": "29.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-repository-truth-context",
-      "title": "Repository Truth Context Compiler",
-      "role": "UTILITY",
-      "price_usd": "39.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-mcp-production-readiness",
-      "title": "MCP Production Readiness Kit",
-      "role": "PRODUCTION",
-      "price_usd": "79.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-openapi-mcp-builder",
-      "title": "OpenAPI to MCP Production Builder",
-      "role": "PREMIUM",
-      "price_usd": "99.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-agent-instruction-linter",
-      "title": "Agent Instruction Conflict Linter",
-      "role": "ENTRY",
-      "price_usd": "19.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-agent-checkpoint-resume",
-      "title": "Coding Agent Checkpoint & Resume Kit",
-      "role": "ENTRY",
-      "price_usd": "19.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-ai-ci-failure-triage",
-      "title": "AI CI Failure Triage",
-      "role": "UTILITY",
-      "price_usd": "29.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-agent-memory-hygiene",
-      "title": "Agent Memory Hygiene Kit",
-      "role": "PRODUCTION",
-      "price_usd": "69.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-llm-cost-circuit-breaker",
-      "title": "LLM Cost Circuit Breaker",
-      "role": "UTILITY",
-      "price_usd": "39.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-prompt-regression-harness",
-      "title": "Prompt & Model Regression Harness",
-      "role": "PRODUCTION",
-      "price_usd": "59.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-rag-grounding-regression",
-      "title": "RAG Grounding Regression Kit",
-      "role": "PRODUCTION",
-      "price_usd": "79.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-ai-numeric-truth-guard",
-      "title": "AI Numeric Truth Guard",
-      "role": "UTILITY",
-      "price_usd": "49.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-browser-workflow-skill-builder",
-      "title": "Browser Workflow to Agent Skill",
-      "role": "UTILITY",
-      "price_usd": "49.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-release-risk-changelog",
-      "title": "Release Risk & Changelog Agent",
-      "role": "UTILITY",
-      "price_usd": "29.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-api-contract-drift",
-      "title": "API Contract Drift Detector",
-      "role": "UTILITY",
-      "price_usd": "39.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-agent-skill-eval",
-      "title": "Agent Skill Evaluation Harness",
-      "role": "PRODUCTION",
-      "price_usd": "59.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-agent-workspace-preflight",
-      "title": "Agent Workspace Preflight",
-      "role": "ENTRY",
-      "price_usd": "19.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-mcp-quick-readiness-scan",
-      "title": "MCP Quick Readiness Scan",
-      "role": "ENTRY",
-      "price_usd": "19.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-agent-assurance-smoke-test",
-      "title": "Agent Assurance Smoke Test",
-      "role": "ENTRY",
-      "price_usd": "29.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-deterministic-replay-mini",
-      "title": "Deterministic Replay Mini",
-      "role": "ENTRY",
-      "price_usd": "29.00",
-      "status": "COMING"
-    },
-    {
-      "slug": "genesis-tool-contract-lint",
-      "title": "Tool Contract Lint",
-      "role": "ENTRY",
-      "price_usd": "19.00",
-      "status": "COMING"
-    }
-  ]
+  "pipeline_products": []
 }
