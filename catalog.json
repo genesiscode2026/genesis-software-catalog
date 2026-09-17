@@ -567,5 +567,202 @@
         }
       }
     }
+  ],
+  "public_companions": [
+    {
+      "slug": "agent-safety-field-guide",
+      "title": "Agent Safety Field Guide",
+      "category": "Open Discovery",
+      "type": "PUBLIC_COMPANION",
+      "url": "https://github.com/genesiscode2026/agent-safety-field-guide",
+      "status": "LIVE"
+    },
+    {
+      "slug": "mcp-security-readiness-guide",
+      "title": "MCP Security Readiness Guide",
+      "category": "Open Discovery",
+      "type": "PUBLIC_COMPANION",
+      "url": "https://github.com/genesiscode2026/mcp-security-readiness-guide",
+      "status": "LIVE"
+    },
+    {
+      "slug": "agent-skills-quality-schema",
+      "title": "Agent Skills Quality Schema",
+      "category": "Open Discovery",
+      "type": "PUBLIC_COMPANION",
+      "url": "https://github.com/genesiscode2026/agent-skills-quality-schema",
+      "status": "LIVE"
+    },
+    {
+      "slug": "rag-grounding-eval-benchmark-kit",
+      "title": "RAG Grounding Eval Benchmark Kit",
+      "category": "Open Discovery",
+      "type": "PUBLIC_COMPANION",
+      "url": "https://github.com/genesiscode2026/rag-grounding-eval-benchmark-kit",
+      "status": "LIVE"
+    },
+    {
+      "slug": "prompt-regression-examples",
+      "title": "Prompt Regression Examples",
+      "category": "Open Discovery",
+      "type": "PUBLIC_COMPANION",
+      "url": "https://github.com/genesiscode2026/prompt-regression-examples",
+      "status": "LIVE"
+    }
+  ],
+  "taxonomy_definitions": {
+    "ENTRY": "$19\u2013$29 accessible developer utilities with <60s time-to-value",
+    "UTILITY": "$29\u2013$49 targeted single-purpose tools for developer & CI pipelines",
+    "PRODUCTION": "$69\u2013$199 robust multi-tool infrastructure kits for production agents",
+    "PREMIUM": "$189\u2013$549 comprehensive enterprise assurance, quantitative & security suites"
+  },
+  "pipeline_products": [
+    {
+      "slug": "genesis-agent-skills-qa",
+      "title": "Agent Skills QA & Packager",
+      "role": "UTILITY",
+      "price_usd": "29.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-repository-truth-context",
+      "title": "Repository Truth Context Compiler",
+      "role": "UTILITY",
+      "price_usd": "39.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-mcp-production-readiness",
+      "title": "MCP Production Readiness Kit",
+      "role": "PRODUCTION",
+      "price_usd": "79.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-openapi-mcp-builder",
+      "title": "OpenAPI to MCP Production Builder",
+      "role": "PREMIUM",
+      "price_usd": "99.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-agent-instruction-linter",
+      "title": "Agent Instruction Conflict Linter",
+      "role": "ENTRY",
+      "price_usd": "19.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-agent-checkpoint-resume",
+      "title": "Coding Agent Checkpoint & Resume Kit",
+      "role": "ENTRY",
+      "price_usd": "19.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-ai-ci-failure-triage",
+      "title": "AI CI Failure Triage",
+      "role": "UTILITY",
+      "price_usd": "29.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-agent-memory-hygiene",
+      "title": "Agent Memory Hygiene Kit",
+      "role": "PRODUCTION",
+      "price_usd": "69.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-llm-cost-circuit-breaker",
+      "title": "LLM Cost Circuit Breaker",
+      "role": "UTILITY",
+      "price_usd": "39.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-prompt-regression-harness",
+      "title": "Prompt & Model Regression Harness",
+      "role": "PRODUCTION",
+      "price_usd": "59.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-rag-grounding-regression",
+      "title": "RAG Grounding Regression Kit",
+      "role": "PRODUCTION",
+      "price_usd": "79.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-ai-numeric-truth-guard",
+      "title": "AI Numeric Truth Guard",
+      "role": "UTILITY",
+      "price_usd": "49.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-browser-workflow-skill-builder",
+      "title": "Browser Workflow to Agent Skill",
+      "role": "UTILITY",
+      "price_usd": "49.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-release-risk-changelog",
+      "title": "Release Risk & Changelog Agent",
+      "role": "UTILITY",
+      "price_usd": "29.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-api-contract-drift",
+      "title": "API Contract Drift Detector",
+      "role": "UTILITY",
+      "price_usd": "39.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-agent-skill-eval",
+      "title": "Agent Skill Evaluation Harness",
+      "role": "PRODUCTION",
+      "price_usd": "59.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-agent-workspace-preflight",
+      "title": "Agent Workspace Preflight",
+      "role": "ENTRY",
+      "price_usd": "19.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-mcp-quick-readiness-scan",
+      "title": "MCP Quick Readiness Scan",
+      "role": "ENTRY",
+      "price_usd": "19.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-agent-assurance-smoke-test",
+      "title": "Agent Assurance Smoke Test",
+      "role": "ENTRY",
+      "price_usd": "29.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-deterministic-replay-mini",
+      "title": "Deterministic Replay Mini",
+      "role": "ENTRY",
+      "price_usd": "29.00",
+      "status": "COMING"
+    },
+    {
+      "slug": "genesis-tool-contract-lint",
+      "title": "Tool Contract Lint",
+      "role": "ENTRY",
+      "price_usd": "19.00",
+      "status": "COMING"
+    }
   ]
 }

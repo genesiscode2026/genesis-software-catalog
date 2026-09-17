@@ -40,6 +40,28 @@ Every product below is sold **zero-touch** with **USDC on Base** non-custodial s
 | **Tool-Call Contract Validator**<br>*`tool-call-contract-validator`* | AI Agent Security | $149 | [GitBuyer](https://gitbuyer.com/r/genesiscode2026/tool-call-contract-validator) · [X402 Git](https://x402git.com/genesiscode2026/tool-call-contract-validator) |
 | **Deterministic Agent Replay SDK**<br>*`deterministic-agent-replay-sdk`* | AI Agent Security | $249 | [GitBuyer](https://gitbuyer.com/r/genesiscode2026/deterministic-agent-replay-sdk) · [X402 Git](https://x402git.com/genesiscode2026/deterministic-agent-replay-sdk) |
 
+
+## Public Discovery Companions (Open Source & Community Guides)
+
+The following reference implementations, schemas, and field guides are completely free and open-source:
+
+| Companion Repository | Description | Visibility | GitHub Link |
+| :--- | :--- | :---: | :--- |
+| **Agent Safety Field Guide** | Operational checklist & guardrails for AI coding agents | Public | [agent-safety-field-guide](https://github.com/genesiscode2026/agent-safety-field-guide) |
+| **MCP Security Readiness Guide** | Security checklist & readiness standard for Model Context Protocol | Public | [mcp-security-readiness-guide](https://github.com/genesiscode2026/mcp-security-readiness-guide) |
+| **Agent Skills Quality Schema** | Community quality schema & best practices for SKILL.md packages | Public | [agent-skills-quality-schema](https://github.com/genesiscode2026/agent-skills-quality-schema) |
+| **RAG Grounding Eval Benchmark Kit**| Deterministic methodology & test fixtures for RAG hallucination regression | Public | [rag-grounding-eval-benchmark-kit](https://github.com/genesiscode2026/rag-grounding-eval-benchmark-kit) |
+| **Prompt Regression Examples** | Production prompt regression fixtures, assertions & CI patterns | Public | [prompt-regression-examples](https://github.com/genesiscode2026/prompt-regression-examples) |
+
+## Commercial Catalog Taxonomy & Pipeline (Block 014 Expansion)
+
+- **ENTRY ($19–$29)**: Accessible micro-utilities with <60s time-to-value for individual developers.
+- **UTILITY ($29–$49)**: Targeted single-purpose tools for CI/CD and developer automation pipelines.
+- **PRODUCTION ($69–$199)**: Robust multi-tool infrastructure kits for long-running production agents.
+- **PREMIUM ($189–$549)**: Comprehensive enterprise governance, quantitative, and security assurance suites.
+
+*Note: The 21 new Block 014 commercial products are currently packaged and initialized in private repositories under genesiscode2026. They are classified as `COMING` until remote marketplace listing activation completes. Only the 24 verified products above are currently active for zero-touch purchase.*
+
 ## Machine-Readable Endpoints
 - `products.json` — Product manifest
 - `catalog.json` — Dual-channel catalog with pricing and release endpoints

@@ -51,4 +51,31 @@
   <url><loc>https://x402git.com/genesiscode2026/tool-call-contract-validator</loc><lastmod>2026-09-16</lastmod></url>
   <url><loc>https://gitbuyer.com/r/genesiscode2026/deterministic-agent-replay-sdk</loc><lastmod>2026-09-16</lastmod></url>
   <url><loc>https://x402git.com/genesiscode2026/deterministic-agent-replay-sdk</loc><lastmod>2026-09-16</lastmod></url>
+
+  <url>
+    <loc>https://github.com/genesiscode2026/agent-safety-field-guide</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://github.com/genesiscode2026/mcp-security-readiness-guide</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://github.com/genesiscode2026/agent-skills-quality-schema</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://github.com/genesiscode2026/rag-grounding-eval-benchmark-kit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://github.com/genesiscode2026/prompt-regression-examples</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>

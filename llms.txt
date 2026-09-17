@@ -103,3 +103,10 @@ Payout: USDC on Base (non-custodial settlement to 0xC6F86e170411182114FcCdb28793
   GitBuyer: https://gitbuyer.com/r/genesiscode2026/deterministic-agent-replay-sdk
   X402 Git: https://x402git.com/genesiscode2026/deterministic-agent-replay-sdk (Agent 402 API: https://x402git.com/api/r/genesiscode2026/deterministic-agent-replay-sdk)
   Summary: Deterministic replay of AI-agent execution for reproducible debugging.
+
+## Public Discovery Companions (Open Source & Community Guides)
+- Agent Safety Field Guide: https://github.com/genesiscode2026/agent-safety-field-guide
+- MCP Security Readiness Guide: https://github.com/genesiscode2026/mcp-security-readiness-guide
+- Agent Skills Quality Schema: https://github.com/genesiscode2026/agent-skills-quality-schema
+- RAG Grounding Eval Benchmark Kit: https://github.com/genesiscode2026/rag-grounding-eval-benchmark-kit
+- Prompt Regression Examples: https://github.com/genesiscode2026/prompt-regression-examples
